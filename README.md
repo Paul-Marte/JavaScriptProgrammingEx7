@@ -1,0 +1,2 @@
+# JavaScriptProgrammingEx7
+Functions
